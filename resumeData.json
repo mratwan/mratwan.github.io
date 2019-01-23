@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name":"Mohammadreza Atwan",
+    "occupation":"Full-Stack Developer at Web / Mobile",
+    "description":"Full-Stack Developer",
+    "image":"mratwan.jpg",
+    "bio":"I'm a Senior Web Developer and CEO of Shahonet Technology. book, sport, network, music and web design are my favorits♥",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mratwan@yahoo.com",
+    "phone": "+98 936 98 98 538",
+    "address":{
+      "street":"Kargar St",
+      "city":"Tehran",
+      "state":"Tehran",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://www.shahonet.com",
+    "resumedownload":"https://shahonet.com/files/cv_mratwan.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://facebook.com/mrzatwan",
+        "className":"fa fa-facebook-official"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/mr_atwan",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"telegram",
+        "url":"https://t.me/mratwan",
+        "className":"fa fa-telegram"
+      },
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/mratwan",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mohammadreza-atwan-038a91109/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mratwan",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"PN University",
+        "degree":"Software Engineer",
+        "graduated":"April 2015",
+        "description":"Software and hardware knowledge"
+      }
+    ],
+    "work":[
+      {
+        "company":"Shahonet Technology",
+        "title":"CEO",
+        "years":"May 2010 - Present",
+        "description":"This is My Company."
+      },
+      {
+        "company":"Atlas System Ofogh",
+        "title":"Web Developer",
+        "years":"March 2015 - February 2018",
+        "description":"This is a company for License selling."
+      },
+      {
+        "company":"Adineh Rayaneh Parsi",
+        "title":"Web Dsigner",
+        "years":"June 2014 - Dec 2015",
+        "description":"for fron-end design."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"React-Native",
+        "level":"90%"
+      },
+      {
+        "name":"VueJs",
+        "level":"80%"
+      },
+      {
+        "name":"Laravel",
+        "level":"100%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"75%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"SubDl",
+        "category":"Find any subtitle you want...",
+        "image":"subdl.png",
+        "url":"http://subdl.com"
+      },
+      {
+        "title":"Drino",
+        "category":"Online Services for doctor's patients",
+        "image":"drino.png",
+        "url":"http://www.drino.ir"
+      },
+      {
+        "title":"Panel32",
+        "category":"License selling",
+        "image":"panel32.png",
+        "url":"http://www.panel32.com"
+      },
+      {
+        "title":"Madar mall",
+        "category":"MadarCity Mall",
+        "image":"madarmall.png",
+        "url":"http://www.madarmall.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "short_name": "Shahonet",
+  "name": "Mohammadreza Atwan",
+  "start_url" : "/?source=pwa",
+  "scope" : ".",
+  "display" : "standalone",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
